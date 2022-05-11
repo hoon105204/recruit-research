@@ -8,7 +8,7 @@
 
 <hr>
 
-1. [채용공고]("C:\Users\hoon3\Git\recruit-research\recruitment.md")
+1. [채용공고](.\recruitment.md)
 2. [자소서 문항 리서치]()
 3. [기업 리서치]()
 
