@@ -128,25 +128,33 @@
   
   - **📑주요 업무**
   
-      \- Cloud 서비스 Application 의 web client 개발
-      \- Cloud 서비스 Web Application 개발
-      \- UI Component 및 functional/object module 개발
+     \- Cloud 서비스 Application 의 web client 개발
+  
+     \- Cloud 서비스 Web Application 개발
+  
+     \- UI Component 및 functional/object module 개발
   
   - **🔍자격요건**
   
     \- HTML5, CSS3 등 W3C 웹표준 규격에 대한 이해와 활용 능력
+  
     \- ECMAScript, HTML5 API에 대한 이해와 활용 능력
+  
     \- React 이용한 SPA개발 경험
   
   - **😉우대사항**
   
     \- functional javascript에 대한 이해
+  
     \- Mobile Web 및 React Native 앱 개발 경험
+  
     \- Cross-Browsing 이슈 해결능력
+  
     \- Graph, Map render 개발 경험
+  
     \- AWS 내에서 Web 개발 경험
   
-## 데이터 엔지니어
+## 데이터 엔지니어 & 데이터 사이언티스트
 
 - **네오위즈** - 데이터 엔지니어 담당자(인턴)
   - **📑주요 업무**
